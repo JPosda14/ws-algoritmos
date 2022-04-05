@@ -9,11 +9,11 @@
     margin: auto;
     width: 700px;
     height: 700px;
-    background-color: antiquewhite;
-    border: 5px dashed #aa4;
+    background-color: rgb(34, 33, 31);
+    border: 5px dashed rgb(21, 102, 41);
 }
 #player{
-    background-color: blueviolet;
+    background-color: rgb(76, 23, 126);
     border:4px;
     width: 40px;
     height: 40px;
@@ -22,11 +22,11 @@
     transition: all 0.3s;
 }
 .pointer{
-    background-color: dimgrey;
+    background-color: rgb(243, 235, 235);
     height: 50px;
     margin-top: 30px;
     border-bottom: 0px;
-    color: #fff;
+    color: rgb(14, 13, 13);
     font-size: 20px;
     text-align: center;
     padding: 10px 0px;
